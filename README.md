@@ -17,3 +17,4 @@ Features:
 - Journey Planner for the nurse (Nurse selects the patient to be visited and they all pop on one singe map through Google Maps API)
 - Still working on how to find the quickest route and displaying in order the patients to be visited. 
 
+To see the code please go to the folder Quicklogin.
